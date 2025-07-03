@@ -1,5 +1,5 @@
 // API key constant
-const apiKey = APIKEY;  
+const apiKey = AIzaSyC6mORAdxE_HRZAl0Pesda45nfCNvIubIQ;  
 
 // Script for triggering enter key to send
 var input = document.getElementById("user-input");
